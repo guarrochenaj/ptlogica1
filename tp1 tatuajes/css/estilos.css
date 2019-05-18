@@ -16,7 +16,10 @@ header{
     width: 900px;
     height: 450px;
 	display: block;
-	background-attachment: scroll;
+	background-attachment:fixed;
+	background-position: center;
+	background-size: 99%;
+	background-repeat: no-repeat;
 	
 }
 
